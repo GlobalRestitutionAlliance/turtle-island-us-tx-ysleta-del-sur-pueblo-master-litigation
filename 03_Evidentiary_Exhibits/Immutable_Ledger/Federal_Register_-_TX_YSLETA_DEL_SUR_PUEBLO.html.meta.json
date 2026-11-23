@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=TX+YSLETA+DEL+SUR+PUEBLO",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=TX+YSLETA+DEL+SUR+PUEBLO",
+  "title": "Federal Register - TX YSLETA DEL SUR PUEBLO",
+  "fetched_at": "2026-11-23T18:15:16.845086Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 233886,
+  "sha256": "5a72f4d0638528b6c7f5d4cae0340ae09e2f757411dfac622ef6bf75fb2be731",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
